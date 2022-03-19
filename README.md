@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Krip4us
+- 👀 I’m interested in cibersecurity
+- 🌱 I’m currently learning Server Management 
+- 💞️ I’m looking to collaborate on I.T. automatization for windows systems
+- 📫 How to reach me: krip4us.wordpress.com
